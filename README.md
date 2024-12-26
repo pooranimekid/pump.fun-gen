@@ -20,7 +20,7 @@
 1. Clone repo
 2. Install deps with `npm install` 
 3. Make auth.yaml file
-4. Start with `node temp.js`
+4. Start with `node index.js`
 
 ## Features
 
